@@ -12,6 +12,7 @@ scipy = "*"
 scikit-learn = "*"
 gunicorn = "*"
 flask = "*"
+seaborn = "*"
 
 [dev-packages]
 
