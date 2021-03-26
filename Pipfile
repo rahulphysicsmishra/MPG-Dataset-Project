@@ -10,6 +10,7 @@ numpy = "*"
 pandas = "*"
 scipy = "*"
 scikit-learn = "*"
+gunicorn = "*"
 
 [dev-packages]
 
